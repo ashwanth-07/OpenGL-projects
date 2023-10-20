@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/OpenGl-projects/static/css/main.073c9b0a.css",
-    "main.js": "/OpenGl-projects/static/js/main.b8fb9dc8.js",
-    "static/js/787.8ac50bac.chunk.js": "/OpenGl-projects/static/js/787.8ac50bac.chunk.js",
-    "static/media/logo.svg": "/OpenGl-projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/OpenGl-projects/index.html",
-    "main.073c9b0a.css.map": "/OpenGl-projects/static/css/main.073c9b0a.css.map",
-    "main.b8fb9dc8.js.map": "/OpenGl-projects/static/js/main.b8fb9dc8.js.map",
-    "787.8ac50bac.chunk.js.map": "/OpenGl-projects/static/js/787.8ac50bac.chunk.js.map"
+    "main.css": "/OpenGL-projects/static/css/main.073c9b0a.css",
+    "main.js": "/OpenGL-projects/static/js/main.f46a0869.js",
+    "static/js/787.8ac50bac.chunk.js": "/OpenGL-projects/static/js/787.8ac50bac.chunk.js",
+    "static/media/logo.svg": "/OpenGL-projects/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OpenGL-projects/index.html",
+    "main.073c9b0a.css.map": "/OpenGL-projects/static/css/main.073c9b0a.css.map",
+    "main.f46a0869.js.map": "/OpenGL-projects/static/js/main.f46a0869.js.map",
+    "787.8ac50bac.chunk.js.map": "/OpenGL-projects/static/js/787.8ac50bac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b8fb9dc8.js"
+    "static/js/main.f46a0869.js"
   ]
 }
